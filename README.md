@@ -11,7 +11,7 @@ The dashboard provides comprehensive insights into sales performance, customer b
 - **Tool Used:** Power BI Desktop (.pbix)  
 - **Date Created:** September 2025  
 
-## 📌 Objectives
+## 📌 Objectives 
 
 - Design and implement a **star schema data model** for clean reporting  
 - Build an **interactive dashboard** for executives (CEO & CMO)  
