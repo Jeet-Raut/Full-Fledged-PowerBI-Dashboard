@@ -9,7 +9,7 @@ The dashboard provides comprehensive insights into sales performance, customer b
 - **Internship:** InfoOrigin (Data Engineering Intern)   
 - **Author:** Jeetu Raut    
 - **Tool Used:** Power BI Desktop (.pbix)  
-- **Date Created:** September 2025   
+- **Date Created:** September 2025    
 
 ## 📌 Objectives 
  
