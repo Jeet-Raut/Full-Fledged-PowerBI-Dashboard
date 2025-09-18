@@ -12,7 +12,7 @@ The dashboard provides comprehensive insights into sales performance, customer b
 - **Date Created:** September 2025   
 
 ## 📌 Objectives 
-
+ 
 - Design and implement a **star schema data model** for clean reporting  
 - Build an **interactive dashboard** for executives (CEO & CMO)  
 - Deliver insights on:
