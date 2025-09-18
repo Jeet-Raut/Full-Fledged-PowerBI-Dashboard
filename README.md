@@ -6,7 +6,7 @@ The dashboard provides comprehensive insights into sales performance, customer b
 ## 🧠 Project Overview   
  
 - **Project Title:** Full-Fledged Power BI Sales dashboard   
-- **Internship:** InfoOrigin (Data Engineering Intern)  
+- **Internship:** InfoOrigin (Data Engineering Intern)   
 - **Author:** Jeetu Raut  
 - **Tool Used:** Power BI Desktop (.pbix)  
 - **Date Created:** September 2025   
