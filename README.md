@@ -4,7 +4,7 @@ This repository contains a Power BI project developed during my **InfoOrigin Dat
 The dashboard provides comprehensive insights into sales performance, customer behavior, and business growth opportunities through advanced data modeling and visualization.
  
 ## 🧠 Project Overview
-  
+
 - **Project Title:** Full-Fledged Power BI Sales dashboard   
 - **Internship:** InfoOrigin (Data Engineering Intern)   
 - **Author:** Jeetu Raut    
